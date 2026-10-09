@@ -1,74 +1,41 @@
-﻿# 🏆 GitHub Achievements Hub & Guide
+# GitHub Achievements Guide
 
-A repository designed to demonstrate, automate, and track GitHub Achievements!
+A guide to useful contributions and accurate GitHub achievement attribution. GitHub awards achievements automatically; editing this README does not unlock them.
 
-[![GitHub Stars](https://img.shields.io/github/stars/vasgodutyal/pair-extraordinaire-badge?style=social)](https://github.com/vasgodutyal/pair-extraordinaire-badge/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/vasgodutyal/pair-extraordinaire-badge?style=social)](https://github.com/vasgodutyal/pair-extraordinaire-badge/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/vasgodutyal/pair-extraordinaire-badge)](https://github.com/vasgodutyal/pair-extraordinaire-badge/issues)
+## Profile status
 
----
+Observed on the vasgodutyal profile on 2026-10-09:
 
-## 🌟 Starstruck Badge (Goal: 16 Stars ⭐)
+| Achievement | Visible status |
+| --- | --- |
+| Pull Shark | x2 |
+| YOLO | Unlocked |
+| Quickdraw | Unlocked |
+| Pair Extraordinaire | Not visible; award not confirmed |
+| Starstruck | Not visible |
+| Galaxy Brain | Not visible |
 
-Help each other unlock the **Starstruck** achievement! 
-If you find this repository helpful or want to support:
-1. Click the **⭐ Star** button at the top right!
-2. Feel free to open a PR or issue to collaborate and unlock **Pair Extraordinaire** or **Pull Shark**.
+## Contributing with a co-author
 
----
+1. Choose a real bug fix, documentation improvement, or feature and work on it together.
+2. Fork the repository and create a branch.
+3. Credit only people who actually contributed to the commit. After the commit description and a blank line, add a trailer for each co-author:
 
-## 🎖️ GitHub Achievements Status
+```text
+Co-authored-by: Contributor Name <email-associated-with-their-github-account>
+```
 
-| Badge | Achievement | Description | Status |
-| :---: | :--- | :--- | :---: |
-| 🦈 | **Pull Shark** | Merged Pull Requests | 🔓 Unlocked |
-| ⚡ | **Quickdraw** | Closed Issue/PR within 5 minutes | 🔓 Unlocked |
-| 🚀 | **YOLO** | Merged PR without code review | 🔓 Unlocked |
-| 👯 | **Pair Extraordinaire** | Co-authored commits on merged PR | 🔓 Unlocked (Bronze x2) |
-| 🌟 | **Starstruck** | Repository with 16+ stars | ⏳ In Progress |
-| 🧠 | **Galaxy Brain** | Answered GitHub Discussions | ⏳ In Progress |
+Replace the placeholders with the actual contributor details. Use their GitHub-provided no-reply address if they prefer email privacy. Do not copy an example account such as octocat into a real commit.
 
----
+4. Open a pull request explaining the change and how it was checked.
+5. Review the change and preserve the co-author attribution when merging.
 
-## 🤝 How to contribute for Pair Extraordinaire
-1. Fork this repository.
-2. Create a branch and add a commit with trailer:
-   ``
-   Co-authored-by: octocat <octocat@users.noreply.github.com>
-   ``
-3. Open a Pull Request! We will merge it to help you unlock the badge!
+A second account is not evidence of a second contributor. This guide does not guarantee achievement eligibility or processing time.
 
----
+Official instructions: [Creating a commit with multiple authors](https://docs.github.com/en/pull-requests/how-tos/commit-changes/creating-a-commit-with-multiple-authors).
 
-⭐ **Leave a Star if this helped you!**
+## Other useful contributions
 
-- Step 11: Co-authored commit with @octocat
-
-- Step 12: Co-authored commit with @octocat
-
-- Step 13: Co-authored commit with @octocat
-
-- Step 14: Co-authored commit with @octocat
-
-- Step 15: Co-authored commit with @octocat
-
-- Step 16: Co-authored commit with @octocat
-
-- Step 17: Co-authored commit with @octocat
-
-- Step 18: Co-authored commit with @octocat
-
-- Step 19: Co-authored commit with @octocat
-
-- Step 20: Co-authored commit with @octocat
-
-- Step 21: Co-authored commit with @octocat
-
-- Step 22: Co-authored commit with @octocat
-
-- Step 23: Co-authored commit with @octocat
-
-- Step 24: Co-authored commit with @octocat
-
-
-- Step 25: Co-authored commit with @octocat
+- Publish useful projects with clear installation steps, examples, and licenses so people can discover and choose to star them.
+- Answer real questions in project Discussions, with reproducible examples and explanations.
+- Check achievement status on the GitHub profile rather than treating this document as proof of an award.
